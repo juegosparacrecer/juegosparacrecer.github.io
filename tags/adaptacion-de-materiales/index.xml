@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adaptacion de materiales on Juegos para crecer | Crece jugando</title>
+    <link>https://juegosparacrecer.github.io/tags/adaptacion-de-materiales/</link>
+    <description>Recent content in Adaptacion de materiales on Juegos para crecer | Crece jugando</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://juegosparacrecer.github.io/tags/adaptacion-de-materiales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test 1</title>
+      <link>https://juegosparacrecer.github.io/test-1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://juegosparacrecer.github.io/test-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

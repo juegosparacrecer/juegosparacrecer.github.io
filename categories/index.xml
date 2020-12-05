@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Juegos para crecer | Crece jugando</title>
+    <link>https://juegosparacrecer.github.io/categories/</link>
+    <description>Recent content in Categories on Juegos para crecer | Crece jugando</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://juegosparacrecer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tips</title>
+      <link>https://juegosparacrecer.github.io/categories/tips/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://juegosparacrecer.github.io/categories/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juegos</title>
+      <link>https://juegosparacrecer.github.io/categories/juegos/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://juegosparacrecer.github.io/categories/juegos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo</title>
+      <link>https://juegosparacrecer.github.io/categories/desarrollo/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://juegosparacrecer.github.io/categories/desarrollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materiales</title>
+      <link>https://juegosparacrecer.github.io/categories/materiales/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://juegosparacrecer.github.io/categories/materiales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
