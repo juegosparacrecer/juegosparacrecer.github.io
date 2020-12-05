@@ -52,5 +52,14 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
+    <item>
+      <title>Prueba 2</title>
+      <link>https://juegosparacrecer.github.io/pruebasol/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://juegosparacrecer.github.io/pruebasol/</guid>
+      <description>ewiuweudgyudugd</description>
+    </item>
+    
   </channel>
 </rss>
