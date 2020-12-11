@@ -18,12 +18,17 @@
   </url>
   
   <url>
+    <loc>https://juegosparacrecer.github.io/materiales/</loc>
+    <lastmod>2020-12-04T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://juegosparacrecer.github.io/tags/</loc>
     <lastmod>2020-12-04T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://juegosparacrecer.github.io/test-4/</loc>
+    <loc>https://juegosparacrecer.github.io/materiales/test-4/</loc>
     <lastmod>2020-12-04T00:00:00+01:00</lastmod>
   </url>
   
@@ -38,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://juegosparacrecer.github.io/desarrollo/</loc>
+    <lastmod>2020-12-03T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://juegosparacrecer.github.io/categories/juegos/</loc>
     <lastmod>2020-12-03T00:00:00+01:00</lastmod>
   </url>
@@ -48,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://juegosparacrecer.github.io/test-3/</loc>
+    <loc>https://juegosparacrecer.github.io/desarrollo/test-3/</loc>
     <lastmod>2020-12-03T00:00:00+01:00</lastmod>
   </url>
   
@@ -63,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://juegosparacrecer.github.io/test-2/</loc>
+    <loc>https://juegosparacrecer.github.io/desarrollo/test-2/</loc>
     <lastmod>2020-12-02T00:00:00+01:00</lastmod>
   </url>
   
@@ -78,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://juegosparacrecer.github.io/juegos/</loc>
+    <lastmod>2020-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://juegosparacrecer.github.io/categories/materiales/</loc>
     <lastmod>2020-12-01T00:00:00+01:00</lastmod>
   </url>
@@ -88,7 +103,7 @@
   </url>
   
   <url>
-    <loc>https://juegosparacrecer.github.io/prueba1/</loc>
+    <loc>https://juegosparacrecer.github.io/materiales/prueba1/</loc>
     <lastmod>2020-12-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -103,7 +118,7 @@
   </url>
   
   <url>
-    <loc>https://juegosparacrecer.github.io/test-1/</loc>
+    <loc>https://juegosparacrecer.github.io/juegos/test-1/</loc>
     <lastmod>2020-12-01T00:00:00+01:00</lastmod>
   </url>
   
@@ -113,7 +128,12 @@
   </url>
   
   <url>
-    <loc>https://juegosparacrecer.github.io/pruebasol/</loc>
+    <loc>https://juegosparacrecer.github.io/tips/pruebasol/</loc>
+    <lastmod>2020-10-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://juegosparacrecer.github.io/tips/</loc>
     <lastmod>2020-10-01T00:00:00+01:00</lastmod>
   </url>
   
