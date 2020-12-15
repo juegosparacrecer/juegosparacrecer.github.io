@@ -6,7 +6,11 @@
     <description>Recent content in Adaptacion de materiales on Juegos para crecer | Crece jugando</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://juegosparacrecer.github.io/tags/adaptacion-de-materiales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://juegosparacrecer.github.io/tags/adaptacion-de-materiales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Prueba 1</title>
       <link>https://juegosparacrecer.github.io/materiales/prueba1/</link>
